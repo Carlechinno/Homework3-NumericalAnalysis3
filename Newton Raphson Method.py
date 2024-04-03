@@ -1,3 +1,11 @@
+# The creators are:
+# Carmel Dor - 316015882
+# Segev Chen - 322433400
+# Gad Hasson - 207898123
+# Artiom Bondar - 332692730
+# github link - https://github.com/Carlechinno/Homework2-NumericalAnalysis
+
+
 from colors import bcolors
 
 
