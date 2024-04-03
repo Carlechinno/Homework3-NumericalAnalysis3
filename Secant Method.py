@@ -3,7 +3,7 @@
 # Segev Chen - 322433400
 # Gad Hasson - 207898123
 # Artiom Bondar - 332692730
-# github link - https://github.com/Carlechinno/Homework2-NumericalAnalysis
+# github link - https://github.com/Carlechinno/Homework3-NumericalAnalysis3
 
 from colors import bcolors
 
